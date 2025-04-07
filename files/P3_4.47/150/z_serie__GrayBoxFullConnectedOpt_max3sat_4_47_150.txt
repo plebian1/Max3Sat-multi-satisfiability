@@ -1,0 +1,257 @@
+_max3sat_testcase_defs\\ExperimentGroup
+GrayBoxFullConnectedOpt\\AlgorithmName
+max3sat_4_47\\PROBLEM_NAME
+150\\PROBLEM_LENGTH
+-1\\GROUP_PARAM_0
+-1\\GROUP_PARAM_1
+0\\AGGRESSIVE_PROBLEM_SCALING
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_0\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_0.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_1\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_1.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_2\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_2.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_3\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_3.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_4\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_4.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_5\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_5.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_6\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_6.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_7\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_7.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_8\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_8.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_9\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_9.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_10\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_10.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_11\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_11.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_12\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_12.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_13\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_13.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_14\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_14.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_15\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_15.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_16\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_16.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_17\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_17.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_18\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_18.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_19\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_19.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_20\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_20.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_21\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_21.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_22\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_22.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_23\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_23.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_24\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_24.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_25\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_25.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_26\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_26.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_27\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_27.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_28\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_28.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_29\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_29.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_30\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_30.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_31\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_31.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_32\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_32.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_33\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_33.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_34\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_34.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_35\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_35.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_36\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_36.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_37\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_37.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_38\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_38.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_39\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_39.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_40\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_40.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_41\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_41.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_42\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_42.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_43\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_43.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_44\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_44.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_45\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_45.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_46\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_46.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_47\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_47.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_48\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_48.txt\\1
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\__program\IslandGA.exe\\PROGRAM
+D:\studia\doktoranckie\publikacje\zzz_paitek Wspolpraca\maxSatEntryGeneration\exp\max3satTCdefs\max3sat_4_47\150\\DIR
+summary__max3sat_4_47_150__GrayBoxFullConnectedOpt.txt\\SUMMFILE
+_max3sat_4_47_150_49\\TestCaseName
+settings_GrBFullConOpt___max3sat_4_47_150_49.txt\\1

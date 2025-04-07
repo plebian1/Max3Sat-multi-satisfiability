@@ -1,0 +1,14 @@
+_gbfcOpt____max3sat_4_47_200_47\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_max_3_sat\\evaluation_type
+200\\evaluation_number_of_elements
+47\\evaluation_problem_seed
+4.47\\evaluation_clause_ratio
+GrayBoxFullConnectedOpt\\optimizer_type
+ffe\\stop_condition_type
+1000\\stop_condition_max_number_of_ffe
+0\\LimitWalshSurrogateByGlobalOpt_HammingRange
+1\\LimitWalshSurrogateByGlobalOpt_LimitType (0-by VIG, 1-byCoeffValue)
+\\
+\\
